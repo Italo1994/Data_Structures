@@ -1,6 +1,6 @@
 public class Main {
 	public static void main(String[] args) {
-		// Examples that you can use for start
+		// Examples that you can use for tests
 		Pilha pilha = new Pilha();
 
 		pilha.push(new Node(1));
