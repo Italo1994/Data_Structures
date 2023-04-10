@@ -1,6 +1,6 @@
 public class No {
 	private Object object;
-	private No refNode;
+	private No refNo;
 
 	public No() {
 
@@ -20,11 +20,11 @@ public class No {
 	}
 
 	public No getRefNo() {
-		return refNode;
+		return refNo;
 	}
 
 	public void setRefNo(No refNode) {
-		this.refNode = refNode;
+		this.refNo = refNo;
 	}
 
 	@Override

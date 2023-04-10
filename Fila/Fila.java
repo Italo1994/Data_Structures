@@ -1,5 +1,5 @@
 public class Fila {
-	private No refNodeEntradaFila;
+	private No refNoEntradaFila;
 
 	public Fila() {
 		this.refNoEntradaFila = null;
